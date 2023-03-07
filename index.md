@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+# Fun Trips
+
